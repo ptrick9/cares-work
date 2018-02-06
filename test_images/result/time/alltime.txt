@@ -1,0 +1,24 @@
+
+CARES Frames per second:9.09882966
+
+CARES Frames per second:40.5804990198
+
+CARES Frames per second:40.2402245959
+
+CARES Frames per second:40.2101099191
+
+CARES Frames per second:40.4387439975
+
+CARES Frames per second:9.13407776443
+
+CARES Frames per second:9.17291768783
+
+CARES Frames per second:9.04508195837
+
+CARES Frames per second:4.36008166244
+
+CARES Frames per second:4.68357056451
+
+CARES Frames per second:9.09738035475
+
+CARES Frames per second:9.08270367337
